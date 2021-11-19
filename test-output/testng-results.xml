@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2021-11-19T13:11:17Z" finished-at="2021-11-19T13:11:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2021-11-19T13:11:17Z" finished-at="2021-11-19T13:11:17Z">
+      <class name="com.Test_Driven_Devlopment.Simple_Annotations">
+        <test-method status="PASS" signature="setProperty()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="setProperty" is-config="true" duration-ms="15" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="browserLaunch" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="getUrl" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="men()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="men" duration-ms="15" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- men -->
+        <test-method status="PASS" signature="sigin()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="sigin" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigin -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="signout" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="sigin()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="sigin" is-config="true" duration-ms="16" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigin -->
+        <test-method status="PASS" signature="sigin()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="sigin" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigin -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="signout" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="tShirt()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="tShirt" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tShirt -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="signout" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="women()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="women" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="homePage" is-config="true" duration-ms="15" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="close" is-config="true" duration-ms="16" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Test_Driven_Devlopment.Simple_Annotations@77167fb7]" name="quit" is-config="true" duration-ms="0" started-at="2021-11-19T18:41:17Z" finished-at="2021-11-19T18:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.Test_Driven_Devlopment.Simple_Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

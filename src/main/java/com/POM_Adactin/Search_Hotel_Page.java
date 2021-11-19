@@ -23,6 +23,8 @@ public class Search_Hotel_Page {
 	private WebElement select_AdultPerRoom;
 	@FindBy(id = "child_room")
 	private WebElement select_ChildrenPerRoom;
+	@FindBy(id = "Submit")
+	private WebElement search_Btn;
 
 	public Search_Hotel_Page(WebDriver driver1) {
 		this.driver = driver1;
@@ -66,7 +68,6 @@ public class Search_Hotel_Page {
 		return search_Btn;
 	}
 
-	@FindBy(id = "Submit")
-	private WebElement search_Btn;
+	
 
 }
